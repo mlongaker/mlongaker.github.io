@@ -1,0 +1,55 @@
+h1 {
+	color: black;
+	font family: 'Dancing Script', cursive;
+	text-align: center;
+}
+body {
+	background-color: Aquamarine;
+}
+.description {
+	text-align: center;
+	font-size: 26px;
+}
+.Name {
+	font-size: 40px;
+	margin-top: 50px;
+}
+
+
+.left-img {
+	float: left;
+	width: 48%;
+	height: auto;
+}
+.right-img {
+	float: right;
+	width: 48%;
+	height: auto;
+}
+.image-row {
+	display: flex;
+	gap: 30px;
+	justify-content: space-around;
+}
+.black-pattern {
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	height: auto;
+}
+nav {
+	position: fixed;
+	top: 0;
+	font-size: 20px;
+	background-color: Aquamarine;
+	
+}
+.Title-2 {
+	text-align: center;	
+}
+.Waterfall {
+	display: flex;
+	width: 100%;
+	height: auto;
+	margin-top: 7px;
+}
